@@ -1,4 +1,5 @@
 """This example demonstrates how to leverage to_data() method provided by AgentQL."""
+"""We then use GPT-4 to post process this information and summarize it"""
 import webql
 import logging
 from openai import OpenAI
