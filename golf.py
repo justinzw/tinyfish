@@ -22,9 +22,9 @@ if __name__ == "__main__":
     {
         products[]
         {
-            brand
-            type
-            name
+            text1
+            text2
+            text3
         }
     }"""
 
